@@ -2,6 +2,7 @@
 title: "Using Github Issues as a Jekyll frontend with Github Actions"
 layout: post
 categories: [Github]
+tags: Github Jekyll
 excerpt_separator: <!--more-->
 ---
 Recently I switched from WordPress to using Jekyll via Github pages. I quickly got into the habit of dumping blog post ideas into issues on my blog's repo. It's a great way to iterate on them and get feedback on them before actually publishing them.

@@ -2,6 +2,7 @@
 title: Adding RedHat DVD as Repository
 layout: post
 categories: [Linux]
+tags: Linux RedHat
 ---
 When we try out a new linux OS its always a pain to download and install all the software and  add packages we needs on that. Its even worse if you don?t have an unlimited connection. But actually most of the software we need is already there in the CD/DVD in which the operating system comes with. So how do we install from the DVD then rather than from the internet?  
 For this you need to add the DVD as a repository so that rpm client picks up the rpm from the DVD and wont go to internet for it.  

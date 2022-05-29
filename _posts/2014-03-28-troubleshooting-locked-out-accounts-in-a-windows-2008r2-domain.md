@@ -2,6 +2,7 @@
 title: Troubleshooting Locked-out Accounts in a Windows 2008/R2 Domain
 layout: post
 categories: [Windows]
+tags: Windows AD
 ---
 One of my colleagues’ account was constantly being locked out. I suspected that he had used his account to run a service, or other automated task on a server and I needed to find out which one.
 

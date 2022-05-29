@@ -2,6 +2,7 @@
 title: Datastore inactive and device cannot be brought online
 layout: post
 categories: [VMWare]
+tags: VMWare
 ---
 If your shared storage or volumes go offline while VMs are running, but after recover these volumes and rescan adapter,
 datastores still stay in inactive state and you're seeing the following in the /var/log/vmkernel.log:

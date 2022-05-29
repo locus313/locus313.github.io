@@ -2,6 +2,7 @@
 title: Change smtp send connector port exchange 2010
 layout: post
 categories: [Exchange 2010]
+tags: Exchange
 ---
 If you need to change the default smtp send connectory port you can run the following command:
 ```powershell

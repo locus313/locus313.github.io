@@ -2,6 +2,7 @@
 title: Using DISM to install Storage Drivers
 layout: post
 categories: [Windows]
+tags: Windows
 ---
 If you migrate Windows installations between storage adapters, you're often left with the well known STOP 0x7B `INACCESSIBLE_BOOT_DEVICE`.
 

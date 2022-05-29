@@ -2,6 +2,7 @@
 title: IPv4 CIDR Chart
 layout: post
 categories: [Network]
+tags: Network IPv4
 ---
 <table width="600" border="1" cellpadding="1" cellspacing="1">
   <caption><strong>VLSM/CIDR Reference Table (IPv4 Subnetting Chart)</strong></caption> <tr>

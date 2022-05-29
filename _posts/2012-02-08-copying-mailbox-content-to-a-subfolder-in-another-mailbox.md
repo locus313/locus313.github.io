@@ -2,6 +2,7 @@
 title: Copying mailbox content to a subfolder in another mailbox
 layout: post
 categories: [Exchange 2010]
+tags: Exchange
 ---
 This is the command to export the content from Tim?s mailbox to a folder name ?Tim? in Tom?s mailbox:
 ```powershell

@@ -2,6 +2,7 @@
 title: Exchange 2003 to 2010 mail flow issue
 layout: post
 categories: [Exchange 2010]
+tags: Exchange
 ---
 Durring the exchange 2010 install the routing group connector didn&#8217;t get created so we need to run the following command in the exchange management shell to create the routing group connector:
 ```powershell

@@ -2,6 +2,7 @@
 title: 3750 interface bandwidth limiting
 layout: post
 categories: [Network]
+tags: Network Cisco
 ---
 I want to police customers traffic into 20mbps.
 

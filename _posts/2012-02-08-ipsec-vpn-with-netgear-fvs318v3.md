@@ -2,6 +2,7 @@
 title: IPSec VPN with Netgear FVS318v3
 layout: post
 categories: [Network]
+tags: Network
 ---
 First you have to set up your FVS318 router to accept the connections.
 

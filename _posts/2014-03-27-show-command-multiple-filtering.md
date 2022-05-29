@@ -2,6 +2,7 @@
 title: Show Command Multiple Filtering
 layout: post
 categories: [Network]
+tags: Network Cisco
 ---
 Normally when we do show command we make use of the `|` to filter and put in keywords after like include, exclude, begin and section. As we all know "include" means show only that matches the string like for the example below.
 ```

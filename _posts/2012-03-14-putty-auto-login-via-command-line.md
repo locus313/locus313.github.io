@@ -2,6 +2,7 @@
 title: Putty Auto Login Via Command Line
 layout: post
 categories: [SSH]
+tags: SSH
 ---
 So lets say you want to open a new PuTTY session to a certain IP Address and have it automatically enter your username for you.
 ```cmd
