@@ -1,5 +1,6 @@
 ---
 title: Putty Auto Login Via Command Line
+date: 2012-03-14 09:00:00 -0800
 layout: post
 categories: [SSH]
 tags: SSH

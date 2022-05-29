@@ -1,5 +1,6 @@
 ---
 title: "Bank-to-Cloud VPN: Cost-Saving Options for Integrating AWS with AT&T Netbond"
+date: 2021-06-18 09:00:00 -0800
 layout: post
 categories: [Network]
 tags: AWS Network VPN

@@ -1,5 +1,6 @@
 ---
 title: Copying mailbox content to a subfolder in another mailbox
+date: 2012-02-08 09:00:00 -0800
 layout: post
 categories: [Exchange 2010]
 tags: Exchange

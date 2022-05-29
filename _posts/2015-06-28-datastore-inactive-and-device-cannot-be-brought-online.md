@@ -1,5 +1,6 @@
 ---
 title: Datastore inactive and device cannot be brought online
+date: 2015-06-28 09:00:00 -0800
 layout: post
 categories: [VMWare]
 tags: VMWare

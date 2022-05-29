@@ -1,5 +1,6 @@
 ---
 title: Adding RedHat DVD as Repository
+date: 2012-03-29 09:00:00 -0800
 layout: post
 categories: [Linux]
 tags: Linux RedHat

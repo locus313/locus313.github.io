@@ -1,5 +1,6 @@
 ---
 title: 3750 interface bandwidth limiting
+date: 2013-07-20 09:00:00 -0800
 layout: post
 categories: [Network]
 tags: Network Cisco

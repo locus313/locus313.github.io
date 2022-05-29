@@ -1,5 +1,6 @@
 ---
 title: "Using Github Issues as a Jekyll frontend with Github Actions"
+date: 2021-05-27 09:00:00 -0800
 layout: post
 categories: [Github]
 tags: Github Jekyll

@@ -1,5 +1,6 @@
 ---
 title: Show Command Multiple Filtering
+date: 2014-03-27 09:00:00 -0800
 layout: post
 categories: [Network]
 tags: Network Cisco
