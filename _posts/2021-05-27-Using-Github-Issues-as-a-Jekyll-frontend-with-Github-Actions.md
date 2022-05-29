@@ -3,14 +3,12 @@ title: "Using Github Issues as a Jekyll frontend with Github Actions"
 layout: post
 categories: [Github]
 tags: Github Jekyll
-excerpt_separator: <!--more-->
 ---
 Recently I switched from WordPress to using Jekyll via Github pages. I quickly got into the habit of dumping blog post ideas into issues on my blog's repo. It's a great way to iterate on them and get feedback on them before actually publishing them.
 
 ![image](/assets/img/119626686-54434f80-bdc0-11eb-858d-9777e3148a8b.png)
 
 The ideas keep accumulating, now how to get them published quickly? By automating it a much as possible!
-<!--more-->
 While doing some research on how I could automate it via Github actions I came across this article:
 [Using Github Issues as a Hugo frontend with Github Actions and Netlify](https://shazow.net/posts/github-issues-as-a-hugo-frontend)
 

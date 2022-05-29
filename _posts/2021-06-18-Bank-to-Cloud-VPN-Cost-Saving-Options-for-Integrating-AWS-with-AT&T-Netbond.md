@@ -3,10 +3,8 @@ title: "Bank-to-Cloud VPN: Cost-Saving Options for Integrating AWS with AT&T Net
 layout: post
 categories: [Network]
 tags: AWS Network VPN
-excerpt_separator: <!--more-->
 ---
 One of the first things we evaluate with a new PortX customer is their network access. Most connect via Internet Protocol Security (IPsec) VPN tunnels to an on-premise firewall. However, we recently established a connection for a new customer with [AT&T’s Netbond](https://www.business.att.com/products/netbond.html) cloud networking solution, which presented our team with exciting new integration alternatives. We’ll cover the unique options for connecting [Amazon Web Services](https://aws.amazon.com) (AWS) to AT&T Netbond, the issues we uncovered, and how we developed a cost-saving solution for the customer.
-<!--more-->
 
 ## AT&T Netbond connection options
 The [PortX Integration Platform](https://modusbox.com/portx-platform) runs on AWS. AT&T Netbond requires a Direct Connect network connection with an AWS account. Unfortunately, Direct Connect is a relatively expensive solution compared to other connection options offered by AWS. And we attempt to avoid unnecessary costs whenever possible because financial-grade solutions should be affordable and secure – [among ten other requirements](https://modusbox.com/six-software-design-principles-that-make-portx-a-financial-grade-integration-platform). 
