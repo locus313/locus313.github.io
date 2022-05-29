@@ -23,6 +23,7 @@ My [full workflow lives here](https://github.com/locus313/locus313.github.io/blo
 
 I wanted to trigger the workflow once an issue is labeled with the 'publish' label, so let's start with that:
 
+{% raw %}
 ```yaml
 name: publish-post
 
@@ -37,6 +38,7 @@ runs-on: ubuntu-latest
 steps:
 ...
 ```
+{% endraw %}
 Next up we want to specify the steps, first is to check out the repo into the action's environment:
 ```yaml
 - uses: actions/checkout@v2
