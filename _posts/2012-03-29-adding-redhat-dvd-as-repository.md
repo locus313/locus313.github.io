@@ -36,4 +36,4 @@ Now save the file and close it. So the configuration for adding a new repo is do
 Now you can install new rpms from the DVD by using **yum** command.  
 So try it out and tell me how it goes and tell me if it doesn?t work or if you need some help
 
-The content of this post is from <http://blog.sriunplugged.com/linux/adding-redhat-dvd-as-repository/>. Want to make sure i give credit to source.
+The content of this post is from <https://blog.sriunplugged.com/linux/adding-redhat-dvd-as-repository/>. Want to make sure i give credit to source.
