@@ -25,4 +25,4 @@ The trick is to use multiple `|` and then the regular expression `^`. Then put a
 
 Source:
 
-http://ciscodreamer.blogspot.com/2009/08/multiple-command-filtering.html
+https://ciscodreamer.blogspot.com/2009/08/multiple-command-filtering.html

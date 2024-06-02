@@ -37,4 +37,4 @@ done
 3. Rescan adapter and the device/datastore would come back to normal after it completes
 
 Source:
- <http://importstack.blogspot.com/2014/10/datastore-inactive-and-device-cannot-be.html>
+ <https://importstack.blogspot.com/2014/10/datastore-inactive-and-device-cannot-be.html>
